@@ -1,0 +1,46 @@
+
+    Objetos y sus atributos/métodos:
+
+    a) Alumno
+       - Atributos: nombre, apellido, legajo, carrera, edad
+       - Métodos: inscribirse(), rendirExamen(), mostrarDatos()
+
+    b) Libro
+       - Atributos: titulo, autor, ISBN, editorial, paginas
+       - Métodos: abrir(), leerPagina(), cerrar()
+
+    c) Canción
+       - Atributos: titulo, artista, duracion, genero
+       - Métodos: reproducir(), pausar(), detener()
+
+    d) Televisor
+       - Atributos: marca, modelo, canalActual, volumen, encendido
+       - Métodos: encender(), apagar(), subirCanal(), bajarCanal(), subirVolumen(), bajarVolumen()
+
+    e) Teléfono Celular
+       - Atributos: marca, modelo, numero, bateria, encendido
+       - Métodos: llamar(), enviarMensaje(), encender(), apagar()
+
+    f) Película
+       - Atributos: titulo, director, duracion, genero
+       - Métodos: reproducir(), pausar(), detener()
+
+    g) Mascota
+       - Atributos: nombre, especie, edad, dueño
+       - Métodos: comer(), dormir(), jugar()
+
+    h) Curso
+       - Atributos: nombre, codigo, profesor, cantidadAlumnos
+       - Métodos: inscribirAlumno(), darClase(), mostrarInfo()
+
+    i) Domicilio
+       - Atributos: calle, numero, ciudad, provincia
+       - Métodos: mostrarDireccion()
+
+    j) Punto
+       - Atributos: x, y
+       - Métodos: mover(), distancia()
+
+    k) Triángulo
+       - Atributos: lado1, lado2, lado3
+       - Métodos: calcularPerimetro(), calcularArea(), esEquilatero()
